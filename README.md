@@ -5,8 +5,8 @@ Link : -
 ---
 
 >Functionality of this Web App
-1. Resize the uploaded Image into $6$ different images:
-    - Thumb
+1. Resize the uploaded Image into 6 different images:
+    - Thumbnail
     - Small
     - Medium
     - Large

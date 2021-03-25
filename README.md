@@ -28,7 +28,7 @@ Converted image is also stored in local upload folder and would not be displayed
 
 Install All Modules
 ```nodejs
-npm i multer sharp express get-image-colors ejs 
+npm install 
 ```
 ---
 To start the Server

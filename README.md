@@ -10,9 +10,13 @@ Link : -
     - Small
     - Medium
     - Large
-    - X-Large
+    - X-Large 
 2. Convert JPG to PNG & vice versa.
 3. Get the colour codes of the uploaded Image
+
+Note: All images are stored locally! But On resizing the window you would feel the difference as it automatically adjusts itself to the image that best suits the window.
+Converted image is also stored in local upload folder and would not be displayed! But developer can use it when needed.
+
 ---
 >Prominent Modules used to complete this project
 1. [multer](https://www.npmjs.com/package/multer)

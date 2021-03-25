@@ -6,11 +6,11 @@ Link : -
 
 >Functionality of this Web App
 1. Resize the uploaded Image into $6$ different images:
-  - Thumb
-  - Small
-  - Medium
-  - Large
-  - X-Large
+    - Thumb
+    - Small
+    - Medium
+    - Large
+    - X-Large
 2. Convert JPG to PNG & vice versa.
 3. Get the colour codes of the uploaded Image
 ---
